@@ -1,2 +1,2 @@
-# Quynh-Anh-portfolio
-Personal portfolio website
+# Minh Chi-portfolio
+chop chop chop
